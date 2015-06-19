@@ -9,19 +9,8 @@ The first problem is for smart people only. The second one can be eased with the
 
 Demo
 ----
-####Basic usage
 
 
-
-But wait, there's more...
-
-####mixedCase
-
-####CamelCase
-
-####lower_case_underscore
-
-####UPPER_CASE_UNDERCORE
 
 How it works
 ------------
