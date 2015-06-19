@@ -9,8 +9,7 @@ The first problem is for smart people only. The second one can be eased with the
 
 Demo
 ----
-
-
+![demo](https://github.com/ewilazarus/vim-snnm/raw/master/doc/demo.gif)
 
 How it works
 ------------
