@@ -34,5 +34,6 @@ All data comes from http://www.thesaurus.com
 Installation
 ------------
 * Make sure you have a working installation of Python 3.x
-* Install snnm: pip install snnm (for more information, please refer to https://github.com/ewilazarus/snnm)
+* Install snnm: (for more information, please refer to https://github.com/ewilazarus/snnm)
+		pip install snnm
 * Use the vim plugin manager of your choice to install vim-snnm (I recommend using [Vundle](https://github.com/gmarik/Vundle.vim))
