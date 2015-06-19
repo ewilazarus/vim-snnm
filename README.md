@@ -1,7 +1,7 @@
 vim-snnm
 ========
 
-> There are only two hard things in Computer Science: cache invalidation and naming thingshttps://github.com/ewilazarus/vim-snnm/blob/master/doc/snnm.txt.
+> There are only two hard things in Computer Science: cache invalidation and naming things.
 >
 > -- Phil Karlton
 
