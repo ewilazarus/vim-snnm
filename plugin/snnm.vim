@@ -1,3 +1,8 @@
+if exists("snnm")
+	finish
+endif
+let snnm = 1
+
 if !exists("g:snnmapp")
 	let g:snnmapp = "snnm"
 endif
